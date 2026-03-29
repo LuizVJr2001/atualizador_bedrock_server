@@ -1,0 +1,15 @@
+# Ambientes Virtuais
+venv/
+env/
+
+# Variáveis de Ambiente
+.env
+
+# Arquivos temporários do script
+temp_bedrock/
+backups/
+temp_backup_raw/
+__pycache__/
+*.zip
+
+#Arquivos de backups
